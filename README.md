@@ -2,7 +2,7 @@
 
 To reproduce:
 * compile this project using `./mvnw package`
-* download flink 1.14 RC0
+* download flink 1.14.0
 * adjust flink settings:
 ```yaml
 taskmanager.memory.process.size: 4g
